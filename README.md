@@ -10,9 +10,13 @@ npx nodemon server.js
 
 ## API Endpoints
 POST /assignments
+
 GET /assignments
+
 GET /assignments/:id
+
 POST /assignments/:id/submit
+
 GET /assignments/:id/submissions
 
 ## Tech Stack
