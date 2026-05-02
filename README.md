@@ -7,13 +7,6 @@ Backend system to manage assignments, submissions, and deadlines.
 npm install
 npx nodemon app.js
 
-## Features
-Create, read assignments
-Submit assignments before deadline
-Prevent late submissions
-Track submissions
-REST API with MongoDB
-
 ## API Endpoints
 POST /assignments
 GET /assignments
